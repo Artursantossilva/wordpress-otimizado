@@ -18,7 +18,7 @@ services:
       WORDPRESS_DB_USER: mariadb
       WORDPRESS_DB_PASSWORD: 949c242aff43675cebf6
       WORDPRESS_DB_NAME: t1a-pages
-      WP_HOME: https://eduardoduka.com.
+      WP_HOME: https://eduardoduka.com
       WP_SITEURL: https://eduardoduka.com
     networks:
       # NOVO: Conecta o wordpress em DUAS redes.
